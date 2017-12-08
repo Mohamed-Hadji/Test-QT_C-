@@ -1,7 +1,7 @@
 # Ciseaux des lignes :
 
 
-Ciseaux des lignes est une application Linux pour couper les lignes et personnaliser votre vue texte. On utilisant l’application tu dois choisir le nombre des caractères maximum (le nombre de caractères doit être entre (0 et 45)) des caractères par ligne et aussi le fichier à couper.
+Ciseaux des lignes est une application Linux pour couper les lignes et personnaliser votre vue texte. On utilisant l’application vous devez choisir le nombre des caractères maximum (le nombre de caractères doit être entre (0 et 45)) par ligne et aussi le fichier à couper.
 L’application fonctionne seulement aves les fichiers au format .Txt.
 
 # Prérequis :
